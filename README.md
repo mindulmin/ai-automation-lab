@@ -1,3 +1,5 @@
+AI-assisted language learning platform experiment built by analyzing major learning apps with Codex and applying practical MVP features.
+
 # AI Automation Lab
 
 AI Automation Lab is an AI-assisted language learning platform experiment.
